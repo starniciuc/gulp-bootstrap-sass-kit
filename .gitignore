@@ -1,6 +1,8 @@
 DS_Store
 .sass-cache
 .idea
-css
+css/global.css
+css/css
 node_modules
 npm-debug.log
+package-lock.json
